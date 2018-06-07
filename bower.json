@@ -1,0 +1,21 @@
+{
+  "name": "curso-fire",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Erlan Carreira <erlancarreira@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "^5.0.2"
+  }
+}
